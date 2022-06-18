@@ -1,21 +1,39 @@
-header{background-color: black;}
-h1{text-align: center; color: yellow;}
-h2{text-align: center;color: yellow;}
-#col-izq{width: 70%;float: left;}
-#col-der{width: 30%;float: right;}
-#blockchain{width:800px;height:300px;}
-#btc{width:400px;height:180px;}
-#links1{color: yellow;}
-#satoshi{width:400px;height:550px;}
-#Vitalik{width:400px;height:300px;}
-#charles{width:400px;height:300px;}
-body{background-color: yellow;}
-#links2{color: black;}
-.footer{
-    position: fixed;
+header{background-color: rgb(235, 145, 27);}
+h1{text-align: center; color: rgb(255, 255, 255)}
+h2{color: rgb(255, 255, 255);}
+h3 {font-style: italic; color: rgb(255, 255, 255);}
+h4 {font-family: 'Roboto', sans-serif;  }
+p {font-family: 'Roboto', sans-serif;}
+#columnaizq{width: 30%;float: left;}
+#columnader{width: 60%;float: right;}
+#borja{width:100%;}
+#fede{width:100%;}
+#olicesio{width:100%;}
+#julian{width:100%;}
+#gobak{width:100%;}
+
+body{background-color: rgb(235, 145, 27); color: rgb(255, 255, 255);}
+footer{
+  position: fixed;
     right: 0;
     bottom: 0;
     left: 0;
     padding: 1rem;
-background-color:white;
+background-color:rgb(139, 109, 25);
     text-align: center;}
+.sponsors {
+    background-color: rgb(230, 164, 90);
+    overflow: hidden;
+  }
+.sponsors a {
+    float: left; 
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-style: italic; color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+.sponsors a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
