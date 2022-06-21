@@ -36,3 +36,6 @@ background-color:rgb(139, 109, 25);
     background-color: rgb(255, 255, 255);
     color: black;
   }
+
+  #countdown {
+    text-align: center; font-family: "Candara";}
