@@ -1,4 +1,4 @@
-header{background-color: rgb(235, 145, 27);}
+header{background-color:#FE950Cff ;}
 h1{text-align:center; font-family: "Candara" ; color: rgb(255, 255, 255)}
 h2{color: rgb(255, 255, 255); font-family: "Candara"}
 h3 {font-family: 'Candara'; color: rgb(255, 255, 255);}
@@ -11,15 +11,18 @@ p {font-family: 'Candara', sans-serif;}
 #olicesio{width:100%;}
 #julian{width:100%;}
 #gobak{width:100%;}
+#logotrama{width:30%;}
+#logoboot{width:25%;}
 
-body{background-color: rgb(235, 145, 27); color: rgb(255, 255, 255);}
+
+body{background-color: #CBCBCBff; color: rgb(255, 255, 255);}
 footer{
   position: fixed;
     right: 0;
     bottom: 0;
     left: 0;
     padding: 1rem;
-background-color:rgb(139, 109, 25);
+background-color:#FE950Cff;
     text-align: center;}
 .sponsors {
     background-color: rgb(230, 164, 90);
@@ -34,8 +37,12 @@ background-color:rgb(139, 109, 25);
     font-style: italic; color: rgb(255, 255, 255); font-family: "Candara" }
 .sponsors a:hover {
     background-color: rgb(255, 255, 255);
-    color: black;
+    color: #FE8301ff;
   }
 
   #countdown {
-    text-align: center; font-family: "Candara"; font-size: 34;}
+    text-align: center; font-family: "Candara"; font-size: xx-large;}
+
+
+
+    
