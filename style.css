@@ -13,6 +13,8 @@ p {font-family: 'Candara', sans-serif;}
 #gobak{width:100%;}
 #logotrama{width:30%;}
 #logoboot{width:25%;}
+ul{font-family: 'Candara';}
+a {color:rgb(255, 255, 255)}
 
 
 body{background-color: #CBCBCBff; color: rgb(255, 255, 255);}
