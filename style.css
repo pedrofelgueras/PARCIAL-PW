@@ -2,8 +2,8 @@ header{background-color: rgb(235, 145, 27);}
 h1{text-align: center; color: rgb(255, 255, 255)}
 h2{color: rgb(255, 255, 255);}
 h3 {font-style: 'Candara'; color: rgb(255, 255, 255);}
-h4 {font-family: 'Roboto', sans-serif;  }
-p {font-family: 'Roboto', sans-serif;}
+h4 {font-family: 'Candara', sans-serif;  }
+p {font-family: 'Candara', sans-serif;}
 #columnaizq{width: 30%;float: left;}
 #columnader{width: 60%;float: right;}
 #borja{width:100%;}
