@@ -46,8 +46,6 @@ background-color:rgb(31, 32, 43);
   #countdown {
     text-align: center; font-family: "Candara"; font-size: xx-large;}
 
-  .li{
-    background-color: rgb(255, 255, 255);
-    color: rgb(5, 3, 0);
-  }
-    
+    #links {
+      text-color:black
+      }
