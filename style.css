@@ -25,7 +25,8 @@ footer{
     left: 0;
     padding: 0rem;
 background-color:rgb(31, 32, 43);
-    text-align: center;}
+    text-align: center;
+  color: rgb(253, 252, 252)}
 .sponsors {
     background-color: rgb(230, 164, 90);
     overflow: hidden;
