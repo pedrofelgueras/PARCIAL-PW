@@ -77,34 +77,34 @@
 
 
 
-<h2 id=contador>¿Cuánto falta para el próximo Bootcamp?</h2>
-    <div id=countdown>
-        <div class="box" style="display: inline;">
-            <span id="day">00000</span>  dias
-        </div>
-        <div class="box" style="display: inline;">
-            <span id="hour">00</span> horas
-        </div>
-        <div class="box" style="display: inline;">
-            <span id="minute">00</span> minutos
-        </div>
-        <div class="box" style="display: inline;">
-            <span id="second">00</span> segundos
-        </div>
-
-        <button onclick="BotonCD()">¿Cuánto falta para el próximo Bootcamp?</button>
-  <script>
-    function BotonCountdown() {
-  var x = document.getElementById("countdown");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-  </script>
+<div>
+    <button onclick="BotonCountdown()">¿Cuánto falta para el próximo Bootcamp?</button>
+        
+        <script>
+          function BotonCountdown() {
+        var x = document.getElementById("countdown");
+        if (x.style.display === "none") {
+          x.style.display = "block";
+        } else {
+          x.style.display = "none";
+        }
+      }
+         </script>
+    <div id="countdown">
+      <div class="box" style="display: inline;">
+          <span id="day">00000</span>  dias
+      </div>
+      <div class="box" style="display: inline;">
+          <span id="hour">00</span> horas
+      </div>
+      <div class="box" style="display: inline;">
+          <span id="minute">00</span> minutos
+      </div>
+      <div class="box" style="display: inline;">
+          <span id="second">00</span> segundos
+      </div>
     </div>
-</div>
+  </div>
 <footer>
     <p>Hecho por Pedro Felgueras</p>
 </footer>
