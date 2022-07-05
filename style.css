@@ -3,7 +3,7 @@ h1{text-align:center; font-family: "Candara" ; color: rgb(255, 255, 255)}
 h2{color: rgb(73, 71, 71); font-family: "Candara"}
 h3 {font-family: 'Candara'; color: rgb(7, 0, 0);}
 h4 {font-family: 'Candara', sans-serif;  }
-p {font-family: 'Candara', sans-serif; color: rgb(7, 0, 0)}
+p {font-family: 'Candara', sans-serif;}
 #columnaizq{width: 30%;float: left;}
 #columnader{width: 60%;float: right;}
 #borjam{width:100%;}
@@ -25,8 +25,7 @@ footer{
     left: 0;
     padding: 0rem;
 background-color:rgb(31, 32, 43);
-    text-align: center;
-  color: rgb(253, 252, 252)}
+    text-align: center;}
 .sponsors {
     background-color: rgb(230, 164, 90);
     overflow: hidden;
