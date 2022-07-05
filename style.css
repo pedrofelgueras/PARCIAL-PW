@@ -23,8 +23,8 @@ footer{
     right: 0;
     bottom: 0;
     left: 0;
-    padding: 1rem;
-background-color:#FE950Cff;
+    padding: 0rem;
+background-color:#383D73ff;
     text-align: center;}
 .sponsors {
     background-color: rgb(230, 164, 90);
@@ -45,13 +45,5 @@ background-color:#FE950Cff;
   #countdown {
     text-align: center; font-family: "Candara"; font-size: xx-large;}
 
-    .footer{
-      position:fixed;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      padding: 0rem;
-      background-color: #efefef;
-      text-align: center;
-    }
+  
     
