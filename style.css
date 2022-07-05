@@ -18,7 +18,7 @@ a {color:rgb(255, 255, 255)}
 
 
 body{background-color: rgb(253, 252, 252); color: rgb(10, 0, 0);}
-.footer{
+footer{
   position: fixed;
   right: 0;
   bottom: 0;
